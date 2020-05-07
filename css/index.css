@@ -1,0 +1,29 @@
+/* body{
+	background-color: #133A63;
+	margin: 0px auto;
+	padding: 0px;
+}
+
+.nav{
+	background-color: #4473C1;
+	margin-top: 60px;
+	width: 100%;
+}
+
+.nav ul li{
+	display: inline-block;
+	list-style: none;
+	color: #133A63;
+	padding: 10px;
+}
+
+.nav ul li:hover{
+	color: #4473C1;
+	background-color: #133A63;
+}
+
+.nav ul li a:hover{
+	color: #4473C1;
+	text-decoration: none;
+}
+ */
